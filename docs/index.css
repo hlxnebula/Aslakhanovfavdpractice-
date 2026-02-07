@@ -5,3 +5,106 @@ background-color: aquamarine;
 h1 {
 color:green;
 }
+
+.block {
+    border: 1px solid gray;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.green {
+    color: green;
+}
+
+.tahoma {
+    font-family: Tahoma;
+}
+
+.font1 {
+    font-family: Georgia;
+}
+
+.font2 {
+    font-family: Verdana;
+}
+
+.font3 {
+    font-family: 'Courier New';
+}
+
+.font4 {
+    font-family: 'Times New Roman';
+}
+
+.size1 {
+    font-size: 16px;
+}
+
+.size2 {
+    font-size: 18px;
+}
+
+.size3 {
+    font-size: 20px;
+}
+
+.size4 {
+    font-size: 22px;
+}
+
+.size5 {
+    font-size: 24px;
+}
+
+.size6 {
+    font-size: 26px;
+}
+
+.size7 {
+    font-size: 28px;
+}
+
+.size8 {
+    font-size: 30px;
+}
+
+.size9 {
+    font-size: 32px;
+}
+
+.image-block {
+    margin-bottom: 40px;
+}
+
+.border-image {
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+.envelope {
+    position: relative;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.sender {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.receiver {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+hr {
+    width: 100%;
+}
+
+.indent {
+    margin-left: 40px;
+}
